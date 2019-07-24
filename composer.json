@@ -1,12 +1,14 @@
 {
-    "name": "davidecesarano/embryo-serversiderendering",
+    "name": "davidecesarano/embryo-ssr",
     "type": "library",
     "description": "Server Side Rendering Javascript in PHP application with V8Js.",
     "keywords": [
         "php-server-side-rendering",
-        "phpv8js"
+        "phpv8js",
+        "php-ssr",
+        "ssr"
     ],
-    "homepage": "https://github.com/davidecesarano/embryo-middleware",
+    "homepage": "https://github.com/davidecesarano/embryo-ssr",
     "license": "MIT",
     "authors": [
         {
