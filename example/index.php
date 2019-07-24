@@ -8,10 +8,6 @@
     $ssr = new SSR($v8js);
 
     echo $ssr
-        ->env([
-            'NODE_ENV' => 'production',
-            'VUE_ENV'  => 'server'
-        ])
         ->context([
             'user' => [
                 'name' => 'Davide'
